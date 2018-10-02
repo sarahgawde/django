@@ -1,7 +1,1 @@
-admin/blog/views.pyc
-admin/blog/_init_.pyc
-admin/blog/admin.pyc
-admin/blog/apps.pyc
-admin/blog/models.pyc
-admin/blog/tests.pyc
-admin/blog/urls.pyc
+*.pyc

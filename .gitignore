@@ -1,1 +1,7 @@
-blog/views.py
+blog/views.pyc
+blog/_init_.pyc
+blog/admin.pyc
+blog/apps.pyc
+blog/models.pyc
+blog/tests.pyc
+blog/urls.pyc

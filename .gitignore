@@ -1,4 +1,4 @@
-blog/*
+blog/*.pyc
 users/*.pyc
 django_project/*.pyc
 
